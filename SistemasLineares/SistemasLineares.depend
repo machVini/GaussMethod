@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540088254 source:c:\users\vini\desktop\c\sistemaslineares\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

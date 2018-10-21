@@ -1,10 +1,11 @@
-# GaussMethod
+﻿# GaussMethod
 Projeto de Tópicos em Orientação a Objetos para calcular sistemas lineares com o método de Gauss, desenvolvido em C
 
 
 - Para solucionar um sistema:
    - *1) Crie um arquivo .txt com o sistema, suas variáveis e coeficientes ;
    - *2) Abra o programa e digite o endereço do arquivo + ".txt";
+   - *OBS: Se o coeficiente da incógnita for 1, você deverá digitá-lo no arquivo, vide exemplos;
    
    
 - Como funciona o método:
